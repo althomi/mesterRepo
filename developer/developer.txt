@@ -1,0 +1,4 @@
+Nächste Aufgaben:
+- branches erstellen
+- jewils commits machen
+- synchronsieren
