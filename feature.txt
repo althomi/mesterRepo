@@ -1,0 +1,8 @@
+Das Projekt enthält Hauptfeatures von Github.
+Dazu zählt
+- Repository anlegen
+- commits erstellen
+- Branches anlegen
+- mit Branches arbeiten
+- alle wichtigen Hauptbefehle für die Arbeit im Terminal
+- alles up to date halten und synchronisieren
